@@ -1,7 +1,6 @@
 import re
 import requests
 from openpyxl import load_workbook
-from time import time
 from bs4 import BeautifulSoup
 
 filename = 'colors.xlsx'
